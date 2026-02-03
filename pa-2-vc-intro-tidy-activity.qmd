@@ -13,9 +13,9 @@ execute:
 
 
 ```{r}
-#| label: add-label-0
+#| label: loading in tidyverse
 
-
+library(tidyverse)
 ```
 
 Today you will be creating and manipulating vectors, lists, and data frames to uncover a top secret message using the `tidyverse`. First thing is to include the package in a setup chunk above!  
